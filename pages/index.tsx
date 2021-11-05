@@ -15,16 +15,11 @@ export default function Home() {
   return (
     <>
       <Navbar />
-
       <MainBanner />
-
       <TransactionStep />
       <FeaturedGame />
-
       <Reached />
-
       <Story />
-
       <Footer />
     </>
   );
